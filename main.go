@@ -7,7 +7,7 @@ func main() {
 	const confrenceTicket int = 50
 	var remainingTicket uint = 50
 
-	remainingTicket = -100
+	remainingTicket = 100
 
 	fmt.Printf("conferenceTickets is %T remainingTickets is %T conferenceName %T\n", confrenceTicket, remainingTicket, conferenceName)
 
